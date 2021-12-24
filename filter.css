@@ -1,0 +1,30 @@
+/*tipe dari tag filter: 
+blur
+brightness
+contrast
+saturate 
+grayscale
+sepia
+hue-rotate
+invert 
+opacity 
+drop-shadow
+*/
+div img{
+	filter:grayscale(50%)opacity(10%)
+	invert(100%)
+	hue-rotate(180deg)
+	sepia(50%)
+	saturate(10);
+
+
+
+
+}
+
+
+
+
+
+
+
